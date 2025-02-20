@@ -50,9 +50,9 @@ The app will be available at `http://localhost:3000`
 ## 🚀 Deployment
 The project is deployed on **Vercel/Netlify**. Check it out here:
 
-🔗 **Live Demo:** [Your Deployment Link](#)
+🔗 **Live Demo:** [https://quiz-app-git-main-pratoosh-18s-projects.vercel.app/](#)
 
-🔗 **GitHub Repository:** [https://github.com/Pratoosh-18/Quiz-app]
+🔗 **GitHub Repository:** [https://github.com/Pratoosh-18/Quiz-app](#)
 
 ## 🙌 Contributing
 Feel free to open issues or create pull requests to improve this project.
